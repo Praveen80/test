@@ -1,4 +1,4 @@
-# SPA Automation project
+# Automation project
 
 ## Setup environment
 
@@ -16,7 +16,7 @@
 
 ### Setup local test environment
 
-*Clone* fr-web-automated-qa
+
  -```yarn```
 
 ## Run automated tests
